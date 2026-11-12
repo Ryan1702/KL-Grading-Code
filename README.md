@@ -70,5 +70,8 @@ its own license.
 
 ## Citation
 
-If you use this code, please cite the manuscript and the archived release
-(DOI to be added after the Zenodo archive is created).
+If you use this code, please cite the manuscript and the archived release:
+
+> Wu Y. *Automated Kellgren–Lawrence grading of knee osteoarthritis: image-only pipeline*
+> (v1.0.0). Zenodo; 2026.
+> [doi:10.5281/zenodo.24178624](https://doi.org/10.5281/zenodo.24178624)
