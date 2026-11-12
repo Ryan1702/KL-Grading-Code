@@ -1,0 +1,10 @@
+data/code2/
+cache/
+*.npy
+final_model/
+baselines/
+*.pth
+*.npz
+__pycache__/
+*.pyc
+.DS_Store
