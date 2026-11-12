@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and the archived release."
+title: "Automated Kellgren–Lawrence grading of knee osteoarthritis: image-only pipeline"
+authors:
+  - family-names: "Wu"
+    given-names: "Youfan"
+    affiliation: "School of Computing and Data Science, Xiamen University Malaysia"
+year: 2026
+type: software
+license: MIT
+repository-code: "https://github.com/<your-username>/KL-Grading-Code"
+abstract: "Training, evaluation, calibration and figure-generation code for a five-class Kellgren–Lawrence grading model evaluated on the public Knee Osteoarthritis Severity Grading Dataset."
