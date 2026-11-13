@@ -9,5 +9,5 @@ year: 2026
 type: software
 license: MIT
 repository-code: "https://github.com/Ryan1702/KL-Grading-Code"
-doi: 10.5281/zenodo.24178624
+doi: 10.5281/zenodo.24187607
 abstract: "Training, evaluation, calibration and figure-generation code for a five-class Kellgren–Lawrence grading model evaluated on the public Knee Osteoarthritis Severity Grading Dataset."
